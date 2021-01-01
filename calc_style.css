@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    min-height: 100vh;
+}
+
+body{
+    background-image: url("https://i.imgur.com/mSPU63U.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+form{
+    background-color: rgb(77, 62, 62);
+    width: 305px;
+    height: 405px;
+    border: none;
+    border-radius: 5px;
+}
+
+#input_id{
+    width:305px;
+    margin-top: 7px;
+    height:100px;
+    border: none;
+    border-radius: 5px;
+    text-align: right;
+    font-size: 35px;
+}
+
+ul{
+    list-style: none;
+}
+
+li{
+    display: inline;
+}
+
+button{
+    background-color: rgb(77, 62, 62);
+    height: 73px;
+    width: 73px;
+    border: none;
+    color: blanchedalmond;
+    font-size: 22px;
+}
